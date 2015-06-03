@@ -1,0 +1,1 @@
+#Denis Makedonov, "Embedded systems"
